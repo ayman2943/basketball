@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ayman2943/Portfolio/tree/main/basketball/static/css/main.cd4c484d.chunk.css",
+    "main.js": "/ayman2943/Portfolio/tree/main/basketball/static/js/main.0a9c5115.chunk.js",
+    "main.js.map": "/ayman2943/Portfolio/tree/main/basketball/static/js/main.0a9c5115.chunk.js.map",
+    "runtime-main.js": "/ayman2943/Portfolio/tree/main/basketball/static/js/runtime-main.dc4db3cf.js",
+    "runtime-main.js.map": "/ayman2943/Portfolio/tree/main/basketball/static/js/runtime-main.dc4db3cf.js.map",
+    "static/css/2.f63ee542.chunk.css": "/ayman2943/Portfolio/tree/main/basketball/static/css/2.f63ee542.chunk.css",
+    "static/js/2.db88233a.chunk.js": "/ayman2943/Portfolio/tree/main/basketball/static/js/2.db88233a.chunk.js",
+    "static/js/2.db88233a.chunk.js.map": "/ayman2943/Portfolio/tree/main/basketball/static/js/2.db88233a.chunk.js.map",
+    "index.html": "/ayman2943/Portfolio/tree/main/basketball/index.html",
+    "static/css/2.f63ee542.chunk.css.map": "/ayman2943/Portfolio/tree/main/basketball/static/css/2.f63ee542.chunk.css.map",
+    "static/css/main.cd4c484d.chunk.css.map": "/ayman2943/Portfolio/tree/main/basketball/static/css/main.cd4c484d.chunk.css.map",
+    "static/js/2.db88233a.chunk.js.LICENSE.txt": "/ayman2943/Portfolio/tree/main/basketball/static/js/2.db88233a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ayman2943/Portfolio/tree/main/basketball/static/media/single player.f5c357d8.png",
+    "static/media/bootstrap.min.css": "/ayman2943/Portfolio/tree/main/basketball/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc4db3cf.js",
+    "static/css/2.f63ee542.chunk.css",
+    "static/js/2.db88233a.chunk.js",
+    "static/css/main.cd4c484d.chunk.css",
+    "static/js/main.0a9c5115.chunk.js"
+  ]
+}
